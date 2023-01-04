@@ -1,6 +1,6 @@
 # Spatial Notes
 
-Synthesize spatial audio music from midi file, with different notes sounding like from different directions.
+Synthesize spatial audio music from midi file, with different notes sounding like from different directions. You can easily experience spatial music with you headphones on. Try the example and enjoy it.
 
 ## Dependency
 
@@ -19,6 +19,10 @@ Python Module
 ## BRIR Dataset
 
 In this project, we use BRIR dataset from <https://zenodo.org/record/2641166#.Y7VygC-KFQJ>, which was captured in a concert hall and has great reverberation effect.
+
+## SoundFonts
+
+You can downloads SoundFonts from MuseScore: <https://musescore.org/en/handbook/3/soundfonts-and-sfz-files>
 
 ## Acknowledgement
 
