@@ -1,0 +1,6 @@
+.DS_Store
+
+BRIR/*.sofa
+output/
+temp/
+MIDI/
