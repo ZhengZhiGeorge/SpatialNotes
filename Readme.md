@@ -2,6 +2,10 @@
 
 Synthesize spatial audio music from midi file, with different notes sounding like from different directions. You can easily experience spatial music with you headphones on. Try the example and enjoy it.
 
+More examples can be viewed at:
+<https://www.bilibili.com/video/BV1BD4y1L7uU>
+<https://youtube.com/playlist?list=PLiNfZ4-hJnBA76SCxjERSHxga23NIelu->
+
 ## Dependency
 
 ```[json]
